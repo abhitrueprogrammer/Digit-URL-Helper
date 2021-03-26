@@ -1,0 +1,16 @@
+D:\Code\Url #dgit\bin\Debug\net5.0\Url #dgit.exe
+D:\Code\Url #dgit\bin\Debug\net5.0\Url #dgit.deps.json
+D:\Code\Url #dgit\bin\Debug\net5.0\Url #dgit.runtimeconfig.json
+D:\Code\Url #dgit\bin\Debug\net5.0\Url #dgit.runtimeconfig.dev.json
+D:\Code\Url #dgit\bin\Debug\net5.0\Url #dgit.dll
+D:\Code\Url #dgit\bin\Debug\net5.0\ref\Url #dgit.dll
+D:\Code\Url #dgit\bin\Debug\net5.0\Url #dgit.pdb
+D:\Code\Url #dgit\obj\Debug\net5.0\Url #dgit.csprojAssemblyReference.cache
+D:\Code\Url #dgit\obj\Debug\net5.0\Url #dgit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Url #dgit\obj\Debug\net5.0\Url #dgit.AssemblyInfoInputs.cache
+D:\Code\Url #dgit\obj\Debug\net5.0\Url #dgit.AssemblyInfo.cs
+D:\Code\Url #dgit\obj\Debug\net5.0\Url #dgit.csproj.CoreCompileInputs.cache
+D:\Code\Url #dgit\obj\Debug\net5.0\Url #dgit.dll
+D:\Code\Url #dgit\obj\Debug\net5.0\ref\Url #dgit.dll
+D:\Code\Url #dgit\obj\Debug\net5.0\Url #dgit.pdb
+D:\Code\Url #dgit\obj\Debug\net5.0\Url #dgit.genruntimeconfig.cache
